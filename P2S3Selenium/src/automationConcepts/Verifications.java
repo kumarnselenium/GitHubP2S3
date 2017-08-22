@@ -11,6 +11,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 
 public class Verifications {
 
+	//Dynamic verification
 
 	WebDriver oBrowser=null;
 	
