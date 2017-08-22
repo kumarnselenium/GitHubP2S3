@@ -10,6 +10,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class Synchronization {
 
+	//Changing some line
+	
 	public void exForImplicitWait()
 	{
 			//1.Open Chrome Browser
